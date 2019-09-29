@@ -42,8 +42,8 @@
     "title":"Crafting Table",
     "notes":"Territory owned by the Lean Bois although they never try to hold it down.",
     "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#FF0000",
+	"strokecolor":"#aa33ee",
+	"fillcolor":"#aa33ee",
     "latlngarray": [
 		{"lat": 62.711, "lng": -122.919},
 		{"lat": 62.587, "lng": -123.113},
@@ -58,8 +58,8 @@
     "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
     "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
+	"strokecolor":"#aa33ee",
+	"fillcolor":"#aa33ee",
     "latlngarray": [
 		{"lat": 62.587, "lng": -123.113},
 		{"lat": 62.260, "lng": -123.698},
