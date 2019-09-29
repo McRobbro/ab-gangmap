@@ -6,8 +6,8 @@
     "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
     "order":1,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#FF0000",
+	"strokecolor":"#aa33ee",
+	"fillcolor":"#aa33ee",
     "latlngarray": [
 {"lat": 62.957, "lng": -125.134},
 {"lat": 62.802, "lng": -125.947},
@@ -23,8 +23,8 @@
     "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
     "order":1,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
+	"strokecolor":"#aa33ee",
+	"fillcolor":"#aa33ee",
     "latlngarray": [
 		{"lat": 62.109, "lng": -124.376},
 		{"lat": 61.876, "lng": -123.929},
