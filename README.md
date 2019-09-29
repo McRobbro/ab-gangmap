@@ -1,7 +1,7 @@
 NoPixel Territory map
 ====
-[Live page](https://skyrossm.github.io/np-gangmap/)
-This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
+[Live page](https://rockysouthpaw.github.io/ab-gangmap1/)
+This interactive (Google) map shows you the location of current Anti-Backstory territory/gang zones.
 
 ## Screenshots
 
