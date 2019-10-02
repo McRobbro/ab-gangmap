@@ -1,4 +1,4 @@
-NoPixel Territory map
+Anti_Backstory Territory map
 ====
 [Live page](https://rockysouthpaw.github.io/ab-gangmap/)
 This interactive (Google) map shows you the location of current Anti-Backstory territory/gang zones.
